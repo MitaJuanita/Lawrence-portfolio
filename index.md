@@ -23,7 +23,7 @@ Welcome to my GitHub Pages portfolio — showcasing real-world projects in:
 
 ### 📓 Jupyter Notebooks
 
-- 🧪 [Clinical Trial Cohort Builder (SQL)](https://github.com/shermintalawrence/DA_project/blob/main/notebooks/Clinical_Trial_List.ipynb)
+- 🧪 [Clinical Trial Cohort Builder (SQL)](https://github.com/shermintalawrence/DA_project/main/notebooks/Clinical_Trial_List.ipynb)
 - 🔬 [FHIR Resource Validation (Python)](https://github.com/shermintalawrence/DA_project/blob/main/notebooks/FHIR_Project.ipynb)
 - 📈 [Readmission Modeling Notebook (Coming Soon)](https://github.com/shermintalawrence/DA_project/blob/main/notebooks/Readmission_Modeling.ipynb)
 
